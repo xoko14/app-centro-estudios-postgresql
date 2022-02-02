@@ -1,0 +1,46 @@
+{
+    "alumnos": [
+        {
+            "apellidos": "Gómez Pais",
+            "fecha_nac": "1999-06-25",
+            "num_exp": 7,
+            "nombre": "Carla",
+            "dni": "12345678A"
+        },
+        {
+            "apellidos": "Sánchez González",
+            "fecha_nac": "2001-07-08",
+            "num_exp": 8,
+            "nombre": "Alex",
+            "dni": "12345678B"
+        },
+        {
+            "apellidos": "Romero Fuentes",
+            "fecha_nac": "2002-11-15",
+            "num_exp": 9,
+            "nombre": "Pedro",
+            "dni": "12345678C"
+        },
+        {
+            "apellidos": "Ferreiro Outeiro",
+            "fecha_nac": "1999-02-22",
+            "num_exp": 10,
+            "nombre": "Laura",
+            "dni": "12345678D"
+        },
+        {
+            "apellidos": "López Suárez",
+            "fecha_nac": "2001-05-14",
+            "num_exp": 11,
+            "nombre": "Ariel",
+            "dni": "12345678E"
+        },
+        {
+            "apellidos": "Blanco Do Val",
+            "fecha_nac": "2003-10-23",
+            "num_exp": 12,
+            "nombre": "Xoán",
+            "dni": "12345678F"
+        }
+    ]
+}
